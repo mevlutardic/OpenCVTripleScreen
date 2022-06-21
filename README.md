@@ -1,5 +1,5 @@
 # OpenCVTripleScreen
-[](https://github.com/mevlutardic/OpenCVTripleScreen/blob/main/triplevideoGif.gif)
 
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
