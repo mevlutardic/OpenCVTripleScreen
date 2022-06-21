@@ -2,7 +2,7 @@
 
 ![](https://github.com/mevlutardic/OpenCVTripleScreen/blob/main/triplevideoGif.gif)
 # How to work?
-The triple screen project we have developed provides video streaming in parallel.This project consists of four basic structures;
+The triple screen project we have developed provides video streaming in parallel.This project consists of four basic structures;/n
 *Interface is designed using Qt Creator. (C++, Python)
 *OpenCV library that allows us to manipulate the image.
 *DroidCam application that provides network access to phone camera.
