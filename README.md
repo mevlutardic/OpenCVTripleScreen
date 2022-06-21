@@ -1,4 +1,3 @@
 # OpenCVTripleScreen
 
-![](https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif)
-
+![](https://github.com/mevlutardic/OpenCVTripleScreen/blob/main/triplevideoGif.gif)
