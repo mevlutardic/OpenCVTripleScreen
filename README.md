@@ -1,8 +1,5 @@
 # OpenCVTripleScreen
+![](https://github.com/mevlutardic/OpenCVTripleScreen/blob/main/triplevideoGif.gif)
 
-<p>
-  <img  src = "../triplevideoGif.gif" width = "500" height = "320" />
-
-</p>
 
 
